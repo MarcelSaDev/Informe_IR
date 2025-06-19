@@ -16,10 +16,15 @@ Informes de Rendimentos Bancários: Registro dos valores atuais de rendimentos e
 Notas Bancárias ou Extrato de Holerites: Controle mensal das entradas de receita, como salários e outros rendimentos.
 
 **Como Usar**
+
 Preencha os dados pessoais na página **"Títular"**.
+
 Insira os valores na página **informes**, com os rendimentos bancários conforme os documentos oficiais recebidos.
+
 Registre mensalmente os valores de entrada, como holerites, na página **Notas**.
+
 Utilize as fórmulas já configuradas para somar e consolidar os valores automaticamente.
+
 Atualize a planilha sempre que receber novos informes ou alterações.
 
 **Requisitos**
