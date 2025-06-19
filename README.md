@@ -17,9 +17,9 @@ Notas Bancárias ou Extrato de Holerites: Controle mensal das entradas de receit
 
 **Como Usar**
 
-Preencha os dados pessoais na página **"Títular"**.
+Preencha os dados pessoais na página **Títular**.
 
-Insira os valores na página **informes**, com os rendimentos bancários conforme os documentos oficiais recebidos.
+Insira os valores na página **Informes**, com os rendimentos bancários conforme os documentos oficiais recebidos.
 
 Registre mensalmente os valores de entrada, como holerites, na página **Notas**.
 
